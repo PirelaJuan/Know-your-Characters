@@ -43,5 +43,5 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='/VeniVici/src/assets/Project4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./VeniVici/src/assets/Project4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
